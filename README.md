@@ -1,4 +1,4 @@
-![alter-text](./assets/afsar.jpeg)
+![alter-text](https://media.licdn.com/dms/image/v2/D5616AQFUYU-BX7Gd_A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719421798283?e=1732752000&v=beta&t=9wk4cBdPLNONagdDBQSD-EmWqf6a82yieNXVkuDSfXo)
 <h1 align="center">Hi 👋, I'm Md Afsar</h1>
 <h3 align="center">A passionate software developer from India...</h3>
 
