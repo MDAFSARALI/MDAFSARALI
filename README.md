@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Data Structure and Algorithms.**
+- 💬 Ask me about **Full Stack Web Development.**
 
 - 📫 How to reach me **afsarmd.official@gmail.com**
 
